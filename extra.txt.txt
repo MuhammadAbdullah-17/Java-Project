@@ -1,0 +1,5 @@
+Enumeration<String> attributes = request
+          .getSession()
+          .getAttributeNames();
+        while (attributes.hasMoreElements()) {
+          String attribute = (String) attributes.nextElement();}

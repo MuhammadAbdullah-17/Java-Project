@@ -1,0 +1,10 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Program Files (x86)\\Apache Software Foundation\\Tomcat 9.0\\lib\\catalina.jar",
+        "c:\\Program Files (x86)\\Apache Software Foundation\\Tomcat 9.0\\lib\\servlet-api.jar"
+    ],
+    "java.project.sourcePaths": [
+        "WEB-INF\\classes"
+    ]
+}
